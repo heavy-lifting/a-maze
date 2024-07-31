@@ -1,3 +1,4 @@
 {"_base":"https://raw.githubusercontent.com/heavy-lifting/a-maze/main/",
-  "tron": ["tron/Tron_Death.wav", "tron/Tron_GameOver.wav", "tron/Tron_Start.wav", "tron/Tron_TankLoop0.wav", "tron/Tron_TankLoop1.wav", "tron/Tron_TankLoop2.wav", "tron/Tron_TankLoop3.wav", "tron/Tron_TankLoop4.wav"]
+  "tron": ["tron/Tron_Death.wav", "tron/Tron_GameOver.wav", "tron/Tron_Start.wav", "tron/Tron_TankLoop0.wav", "tron/Tron_TankLoop1.wav", "tron/Tron_TankLoop2.wav", "tron/Tron_TankLoop3.wav", "tron/Tron_TankLoop4.wav"],
+  "asteroid": ["asteroid/Asteroids_AlienBig.wav", "asteroid/Asteroids_AlienSmall.wav", "asteroid/Asteroids_Death.wav", "asteroid/Asteroids_Thrust.wav", "asteroid/Asteroids_Tone01.wav", "asteroid/Asteroids_Tone02.wav"]
 }
